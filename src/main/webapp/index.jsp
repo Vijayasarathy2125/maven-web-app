@@ -11,12 +11,21 @@
             background-repeat: no-repeat;
             margin: 0; /* Remove default margin to cover the entire viewport */
             font-family: Arial, sans-serif; /* Specify a font-family for better styling */
-            color: red; /* Set the text color to white for better contrast */
+            color: white; /* Set the text color to white for better contrast */
         }
 
         h1 {
-            color: red; /* Set the heading text color to blue */
+            color: red; /* Set the heading text color  */
         }
+
+         h2 {
+            color: red; /* Set the heading text color  */
+        }
+
+        h3 {
+            color: red; /* Set the heading text color  */
+        }
+
 
         /* Add other styles for your content here */
     </style>
