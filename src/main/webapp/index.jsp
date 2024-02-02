@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Kloudping Academy - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Kloudping Academy - Software Training Academy <font></h1>
 
 <a href="https://www.kloudping.com/" target="_blank">Click Here To See Kloudping</a>
   
