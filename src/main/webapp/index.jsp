@@ -26,6 +26,10 @@
             color: red; /* Set the heading text color  */
         }
 
+        p {
+            color: red; /* Set the heading text color  */
+        }
+
 
         /* Add other styles for your content here */
     </style>
@@ -39,7 +43,7 @@
   
     <h3>Ofc Location: Scudder Nagar, Tindivanam</h3>
   
-    <p>All the best my dear friend....</p>
+    <p>All the best my dear friend and enjoy learning....</p>
 </body>
 </html>
 
