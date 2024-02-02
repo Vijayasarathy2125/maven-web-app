@@ -11,7 +11,7 @@
             background-repeat: no-repeat;
             margin: 0; /* Remove default margin to cover the entire viewport */
             font-family: Arial, sans-serif; /* Specify a font-family for better styling */
-            color: white; /* Set the text color to white for better contrast */
+            color: red; /* Set the text color to white for better contrast */
         }
 
         h1 {
