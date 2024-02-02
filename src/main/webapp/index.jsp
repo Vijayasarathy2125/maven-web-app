@@ -6,7 +6,7 @@
     <title>Welcome to Kloudping Academy</title>
     <style>
         body {
-            background-image: url(); /* Replace with the path to your image file */
+            background-image: url(https://wallpapercave.com/wp/26uE9Al.jpg); /* Replace with the path to your image file */
             background-size: cover;
             background-repeat: no-repeat;
             margin: 0; /* Remove default margin to cover the entire viewport */
