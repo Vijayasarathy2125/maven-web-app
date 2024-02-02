@@ -27,7 +27,7 @@
         }
 
         p {
-            color: yellow; /* Set the heading text color  */
+            color: red; /* Set the heading text color  */
         }
 
 
